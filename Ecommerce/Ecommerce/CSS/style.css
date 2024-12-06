@@ -1,0 +1,154 @@
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: rgb(240, 130, 40);
+}
+#list1{
+    display: flex;
+    background-color:rgb(240, 130, 40) ;
+    justify-content: baseline;
+    width: 100%;
+}
+#list1{
+    float:right;
+}
+#list{
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: black;
+    padding: 10px;
+    border-radius: 50px;
+    
+}
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+#list1 a:hover{
+    background-color: #e95f1f;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100;
+    background-color: #ff6e2b;
+    margin: 0%;
+}
+body {
+    background-image: url(Images/8ab0121c7d7a90f6415b4b0edaf035d9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center ; 
+}
+#list{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#lisp a{
+    float: left;
+    color: black;
+}
+
+
+#lisp1 a:hover{
+    padding: 12px 16px;
+    border-radius: 50px;
+    border: 0.1px solid transparent;
+    transition: border 3000s ease-in-out;
+}
+#lisp2 a:hover{
+    padding: 12px 16px;
+    border-radius: 50px;
+    border: 0.1px solid transparent;
+    transition: border 3000s ease-in-out;
+}
+#lisp1{
+    background-image: url(Images/Groceries\ 2.jpg);
+    background-position: center;
+    background-size: 120%;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-position-x: left;
+    color: black;
+    border-radius: 100px;
+    
+
+}
+#lisp2{
+    background-image: url(Images/Mobiles\ 2.jpg);
+    background-position: center;
+    background-size: 120%;
+    background-repeat: no-repeat;
+    color: black;
+    border-radius: 100px;
+
+}
+#lisp3{
+    background-image: url(Images/baazar.jpg);
+    background-size: 130%;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+    border-radius: 100px;
+
+}
+#lisp3 a:hover{
+    padding: 12px 16px;
+    border-radius: 50px;
+    border: 0.1px solid transparent;
+    transition: border 3000s ease-in-out;
+}
+#lisp4{
+    background-image: url(Images/Fashion.jpg);
+    background-size: 120%;
+    background-repeat: no-repeat;
+    border-radius: 100px;
+    background-position-x: right;
+    background-position-y: center;
+}
+#lisp4 a:hover{
+    padding: 12px 16px;
+    border-radius: 50px;
+    border: 0.1px solid transparent;
+    transition: border 3000s ease-in-out;
+}
+#lisp5{
+    background-image: url(Images/Elec.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 100px;
+    
+    
+}
+#lisp5 a:hover{
+    padding: 12px 16px;
+    border-radius: 50px;
+    border: 0.1px solid transparent;
+    transition: border 3000s ease-in-out;
+}
+#lisp6{
+    background-image: url(Images/shopping-cart-sign-red-icon-with-soft-vector-13248860.jpg);
+    background-repeat: no-repeat;
+    background-size: 97%;
+    border-radius: 100px;
+    background-position-y: center;
+}
+#lisp6 a:hover{
+    padding: 12px 16px;
+    border-radius: 50px;
+    border: 0.1px solid transparent;
+    transition: border 3000s ease-in-out;
+}
